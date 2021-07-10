@@ -1,0 +1,9 @@
+#komutların yanına eklenen sayı saniye biçiminden ele alınır.
+komutlar:
+  kit: 20
+  warp: 10
+
+mesaj: '&eBu komutu &b<zaman> saniye &esonra kullanabilirsin.'
+
+
+

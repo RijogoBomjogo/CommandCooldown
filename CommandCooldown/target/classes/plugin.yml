@@ -1,0 +1,6 @@
+name: CommandCooldown
+authors: [ DonsuzTurk ]
+version: 1.0-SNAPSHOT
+main: tr.donsuzturk.commandcooldown.Main
+api-version: 1.17
+description: İstediğiniz komutlara yeniden kullanım süresi eklemenizi sağlar.
